@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jammy
+Date: Thu, 13 Aug 2026 14:41:00 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 22.04 LTS (Jammy Jellyfish)
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ a99ab3973da00037532d5ba4f63f8194 10240 main/binary-amd64/Packages.gz
+ 03f3770d0a4767f843cf7b2de48498cd 84 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ c01038ea56a8c7594408c2a1b185add69fe316ee 10240 main/binary-amd64/Packages.gz
+ 580e1a264648c356e5feb7fb6f9b0e3b6663d624 84 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 095ac4d4edecd28d2e795e3d3f94ae8d8b2c731f41507a3cd1472280fc2de1fa 10240 main/binary-amd64/Packages.gz
+ 5396cb54ccd29a6bceea476d1e015acea7451d9560abf706a15cd7751d885225 84 main/binary-amd64/Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/binary-amd64/Packages
+ bcf97cb1be97ae8c2fc514a50fe4bcdd39b2719c898117def7fef5112e1e330dc1f67dd3862ba6fcc2e7d8f4b34218cf4861ce7b575864ab4d46000a49d24c8d 10240 main/binary-amd64/Packages.gz
+ a5c4ca4682e88fbd33da47864a75e4e76aa2ef9c9ec10a97553499048d59c537726bd5c92cb3bca76e85146c8bcc1528d92bdd97a9f6e5c9bc7bb929614a0e06 84 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCAA5FiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmp913wbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEGxPfxhgmscIfVsP/1Yx9r8H6LGOPzHxuaFS
+W+DdWyLCNWlRD5m1XyBymLR17mS2yT3HaKRHqHia0iW05wCVoVjlRlCGgIgZ1eKU
+MjiMcnQwZrdhCUSUKKeWj7nDSZCdials2LYnjcK77O6jQD/Fj6RInSZjWCzJr4lr
+qI6DVCDuxYTwix7P/UACrHz9Ldwz1IVUwExe8tzEylyXGVCH1NkNGeGz7GM3zbe1
+RMja1BM93A0TodC54JpZq7a6eCNIyQ0aMzzRWd3wrhEERaOCEcQDAOdWnhEXvLNd
+s06FXtaPvfUdCR7rP3ZCRB+WuFIu2MLDR+RhtQjiuqr3h8KBiH0Rzcir0zf4mndi
+YiagirsGG+QKfoi6OT9lyDY49pgABMpTO7/RjvrTfYOnalNCwLabcKAKQ75mJY5s
+aaUWEB62EW8oTjRWbDCAcx8phdJF3F9JMISpKSSzvFh38glpSSZ+Smx2HC+e2Pp1
+dGtE0qwel9WiSx7D5tQIlxKxhWi7cIAAroAZgacWGeZGABjJtpPXqWosMqp/Krzh
+R2mFGGbe6mlsEjBK2Pw2M0ZFAMzVo4wKDVlPt0nvwxA9uaPWQg52kFShTrexqMgQ
+VSxceESHZCCVJK0LlIZsQ0ZktavbrnIs+D4vZ4u/cT9TDpgiPSHVGJEsjdM8ONet
+6g0mDlaPTO/gzBnFdXvZ1Swe
+=lFE+
+-----END PGP SIGNATURE-----

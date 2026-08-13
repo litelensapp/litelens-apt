@@ -1,0 +1,17 @@
+Codename: noble
+Components: main
+Architectures: amd64
+SignWith: packages@litelens.io
+Description: Ubuntu 24.04 LTS (Noble Numbat)
+
+Codename: jammy
+Components: main
+Architectures: amd64
+SignWith: packages@litelens.io
+Description: Ubuntu 22.04 LTS (Jammy Jellyfish)
+
+Codename: focal
+Components: main
+Architectures: amd64
+SignWith: packages@litelens.io
+Description: Ubuntu 20.04 LTS (Focal Fossa)

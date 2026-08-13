@@ -1,0 +1,16 @@
+Package: litelens
+Version: 1.4.6~focal
+Architecture: amd64
+Maintainer: LiteLens Team <packages@litelens.io>
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0, libc6 (>= 2.31)
+Homepage: https://github.com/litelensapp/litelens
+Priority: optional
+Section: utils
+Filename: pool/main/l/litelens/litelens_1.4.6~focal_amd64.deb
+Size: 11940544
+SHA256: e393c0293353e4ad0693ca35e8fe322a49100825c8fe6baec72558fea63ebb85
+SHA1: 17a8ea5cfeff2766142f25bb724bd53d13c1171c
+MD5sum: d50d855f85645b425fe5853f1aca4e47
+Description: Desktop Kubernetes dashboard
+ LiteLens is a lightweight, native desktop Kubernetes dashboard built with Wails.
+

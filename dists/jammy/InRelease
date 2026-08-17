@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: jammy
-Date: Sun, 16 Aug 2026 04:07:57 UTC
+Date: Mon, 17 Aug 2026 10:38:54 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 22.04 LTS (Jammy Jellyfish)
 MD5Sum:
- 6b7a54740749ed3f47f66cd28c2f018b 614 main/binary-amd64/Packages
- 2f1ff01937da54c5c21ed9eb42f50fa6 430 main/binary-amd64/Packages.gz
+ 3574b6082106fbb0c65bcd5f94a07902 614 main/binary-amd64/Packages
+ 48e15d7afa926ccdf3b41d61320a9940 431 main/binary-amd64/Packages.gz
  03f3770d0a4767f843cf7b2de48498cd 84 main/binary-amd64/Release
 SHA1:
- 3edf11f9be9119567f46fa238003f1babc42f8e0 614 main/binary-amd64/Packages
- e8e132053b3faafb2cd7b213c2e64227eb5bded3 430 main/binary-amd64/Packages.gz
+ 8f11e3808eaac798771afd2efcd3460c0e7ba2e2 614 main/binary-amd64/Packages
+ 8d96be725c5ee4502af8bcc4036deb26b5bb1487 431 main/binary-amd64/Packages.gz
  580e1a264648c356e5feb7fb6f9b0e3b6663d624 84 main/binary-amd64/Release
 SHA256:
- 6d100a2745db46d91951f2e43a54dfbe164bbe3238dea2a04f46670f22d61e8b 614 main/binary-amd64/Packages
- c76d9b0aac2c5c0f0099b2bb53462656455fb12528318f70bb631bf417041567 430 main/binary-amd64/Packages.gz
+ 51c0d1675e4d6df39aba7544882e9f7489381de75b810ee1242c9978984d2523 614 main/binary-amd64/Packages
+ e196910847d07e09e588cd26dd84d72a616149781b1fd8d86a06009fd25fd0df 431 main/binary-amd64/Packages.gz
  5396cb54ccd29a6bceea476d1e015acea7451d9560abf706a15cd7751d885225 84 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqBN54ACgkQbE9/GGCa
-xwhr8Q/7B63dBLG8VeQTevYdoYUs7XNScvmX+oRgpV7MPm2Snup/GqIm5n9A2IRJ
-poa/blpt9Oe8JH1oNbDXXqXqNH40AfIeOJ+Q5kuvJl7rVu3DiNKqyQ557ktSJbkb
-a6xRRZDhZO7qrAdlpEzlXDl7AOSLb5ZUUKNHVmDnkxUTPttwRijoW2+uIB3jfB43
-03GzNse4pPsBkyGQvDPR4mvlIkiyWmtLuipV61G1A1Ko4wuMovfZHDevN7ckB4KU
-ukL3cqUaOe1iXdyHnKoMnIzSpH0EUyJh2L/VxxQPfvrMpYeejKpaV2BVz7aPIR/J
-VSsrd2ojKDn2zH5CIJ69JHzLmQ85uZVq7YDJMbYPfT+oCYX4NOtrnMAqq7cgpV1N
-BcaclVF4SvF863ThmT6QA9dcUIOA4IyGXzt4YrHM/9SOXXY93YVt84zNX4gfqdX/
-IkehErbBHrJtHdvP8wgUyGl6N+SV9pj+XJjrs5bpRMtTjLaAXF7zLF3fwzBZ6bN0
-gpTQwPHvhrLUd4Wc5sO1UdnH7Ump8C7coRT+LjQIvEsaGO6iobNIZOnWbLDUMmza
-eWNf2r5anGJdS/YE6RBQ9c9AIE6EUu8WuHXogKoZMPiLN1owfUaslojz0S8MOft7
-6dVqKxReUFEHuVkwAxCLPqqprGwJ5xvMePAe/1ZKBKpL4khqk/I=
-=s9ow
+iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqC5L4ACgkQbE9/GGCa
+xwgZNA/9H+DrOIqy86TRSewnc5c+DrxI5xREgauUvlylcxzBlt06AaC2bYxAfLv/
+mstLCQUT6uf2RN52vLkWm6hFtuC/Q3jMGc9UTWOey+afyqHsOU2uoBa6iBsgpZQe
+uB9Oa1CjExdPOvgv1/AuizK938in7787dco2V0gZ41HfMenaL3FX7bgzTyMEz1rf
++/TN4VY0pIU2Nw7LZO6lj6s+2M8kCmc0GEEDaTGJYHZjZzTyLnpOdjvr1r01s1pZ
+eJqR5SC6POpKmmF4rXTEJwf4i8/UhQvg7bOhAh+rEw/dGKsxYAIXRSosQlo/GnOX
+Suj5zIK5kXAKl0/q2ovN17Xy4+mVcEwvaaMLJe+0ZfCDzmMLGofwSR7iW63ikCnF
+jDQQYctiB+z1ucyoQx1rme+F2ZJXJm/cRvDG0YqCMKtLP1EAIzPku1xEpvNE+aeg
+m7Aago5EcqoAF5us9Je+jvcdV0o7q13DhjKPs1uLBmTewdrPeJTHWoL0w8l40Dp4
++hp1FDaUbmyh/tGXptfekjhfTDhFN/DQ8x3Sv2Khz9lDVFhhakiivkUr2L/OL9kr
+pI4zBXHgA+GbgI9ugTZPfHhEWYNZkscLBgcd6vnMwxEPMTWstQz70jeLjuSCUOPf
+ROjtz6NYEe5hsJmBW0r8C8esbxvvYo7bYJNomh8ng6iJcB5UOr4=
+=Yz7S
 -----END PGP SIGNATURE-----

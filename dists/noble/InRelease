@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: noble
-Date: Fri, 28 Aug 2026 15:03:57 UTC
+Date: Sat, 29 Aug 2026 07:15:48 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 24.04 LTS (Noble Numbat)
 MD5Sum:
- d5994d293d6b3b03ae36e7746e413915 615 main/binary-amd64/Packages
- af33bcc768b343ad82bf012a9dde0993 425 main/binary-amd64/Packages.gz
+ 80af7b626508c2cf842d9b7e941ae3dd 615 main/binary-amd64/Packages
+ 24cb1a0b8ebeba67857e2235ddf95be2 426 main/binary-amd64/Packages.gz
  137e24347b596ab2d93b52f7ea8e93ba 81 main/binary-amd64/Release
 SHA1:
- 4c388d346f33ff458c61a7570b505a71bbd1194c 615 main/binary-amd64/Packages
- 8fcdbd32de4c9f59eeacc0c1f43e62ba0d96a5b3 425 main/binary-amd64/Packages.gz
+ 84555b97e5db38f294f4f1d91d045efe53571155 615 main/binary-amd64/Packages
+ 4c3c9feeb0c3daa43b1f4f61efec0ba17ac5a97e 426 main/binary-amd64/Packages.gz
  3d469138504e7813c2ec9e9750d1913e61335d56 81 main/binary-amd64/Release
 SHA256:
- ff332d8a5e8222bb8c69f42731f463aba425670df417580d25e621dbfe5b8af3 615 main/binary-amd64/Packages
- 6734761bf75d8baaeccb9c0fc4ccf717a55834762182c8414e9c3f0d7f90660c 425 main/binary-amd64/Packages.gz
+ 0ae6fb78a3dec218ca2d488c3b8a9c3e72d40b4a4e2d7eb20d640030c0bc92c9 615 main/binary-amd64/Packages
+ 22b1df7b5f656e63eb0fbd0232edb539a3b888967053b8381eb8504699a60f32 426 main/binary-amd64/Packages.gz
  1173d8a8891da7247200d1c847b48f2c091710465d24c733e1e1201f39504fe0 81 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqRo10ACgkQbE9/GGCa
-xwginxAAoaf4FaKkYBN6E84F/tYVEvFW5Z+Xsw3kurpCaiOGiqNa46yUe9JdPUmw
-Kfu7WrlfBguD4Lhhn1Uh4q+sjTzcSOvJSxCA/3klYVwlr3n0BQwSxVP/g8LqSqiL
-gq5bnwCcfKxgUna9PPnFK8fMOYVwYpPzLc5JnaflK/aZYvR9Y3qMYbd0S96Nh3kj
-HfZVF3OJ/ejLLTCZJLGRJOPgGvqlux4aRbn93ZABb9gU1edaBfh1juu0638cWD62
-aF/QDVyQ7B1AYrqy54r3bd68vsU1TroR9jHyEIzW9VdY//1shRYNX4rCnKcmDPW9
-rW9rg+0OxOTGP1EvNHo90YkapxK/drNPeInV6aMoD1HGzvvwx1MSeDndd6bQa5Jq
-kPJB562mGlLzJm0jqwjXbJe6TX97Mi5P7oNDDDvH7zlgJpV52wGnQTtBbMpx3I1E
-5JeY4bFNC+2Kl+KJP96bMWfYpwbFb645xpfdjOBGCaEgtbzpk9Di7hoOR45CCl48
-R9oCh9a+IX/IEOmr7FSd4kwb8PGTc8WVZfPfSDnjY58foDBrV2y99qBXe7FlO7l4
-nBieHr/5LNQtHBbjJwVpXF7DjpyhFi0HiLPeklzSEuGM2wksYeDJswncrW8+upot
-gipDzioDepsSWHQAVkVzHCc0DkdVaBhf/x5yYTJjiWEYfftzbyo=
-=rD2l
+iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqShyQACgkQbE9/GGCa
+xwiS5Q/+J7sRCkgFtsyFphZRAxHRDbunb4aLkEP7YIHe+GOHAaKKO67uJx0YQHQ7
+PmDYB+ejUwUTyDwbFTDosluQ5yT9EjRFqg39gkXzO6dL5wD7FItCbCSPcqCHWhlx
+inqevqh+aiOFbfTaL/kfsjqENV3wYKOqo43WzBe45bQ02XC8RZ75xIcf2CYKyURo
+rNE95suTddj0IowvhzPBk8zwgSMGt/8Ba4IEbpB7I9kEe4myHZnYOM29YhN3p/ey
+gkDlJFiZMq/+rw4iPk9SzR2LEHvqwRZz7w8PwmRZoUP8yDm7t1Ci0D0HEAcexIid
+HCsqKSVElk4CojfB8c3uqVOTRcjm4XkZrt1FAIZWApnMqoFbZkt8UhXYZfpJSpNN
+FwvYakMjiinyiZpuUGKoNcy2Whe/zXmoVjIqGzJOGt8Y81R62vhGHk+pOrMoskfP
+MAXsLSzRQYJNtFP/aV2yToYxVK0FQp1GzNW0Xma8kA72yjasm94ie/DSntA1VA1f
+gQSAA655L3LRePr8mwKZ0HY8iuipBgb0PiR+TmyiDhX2PP69fvJkGG+BpcgEbUF0
+P3bgtSoa2RHOBFT8cpyhrSDyLzzf7Km/hzCB7cnVAPHklAwNYKmD89/+81e0HP5Y
+Nza4WXjQj7VgCy/opfp8WnZdjrV5D+RZT+G4m5bixoroU3oqWys=
+=SOAB
 -----END PGP SIGNATURE-----

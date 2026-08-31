@@ -2,35 +2,35 @@
 Hash: SHA512
 
 Codename: focal
-Date: Sat, 29 Aug 2026 07:15:47 UTC
+Date: Mon, 31 Aug 2026 04:02:57 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 20.04 LTS (Focal Fossa)
 MD5Sum:
- 5990a00574ae76558b4052b902b36a48 616 main/binary-amd64/Packages
- 5653111c424fe3fd91bba999880e9e1a 428 main/binary-amd64/Packages.gz
+ 9be240161f57968dbbb8913daa792a11 616 main/binary-amd64/Packages
+ 9ca82b8c781cff7e822f69a88c7ebc83 428 main/binary-amd64/Packages.gz
  d6f3e6b81230854a52d4e46099ef5031 80 main/binary-amd64/Release
 SHA1:
- dd155eb086c70884ed39345e155ce614a1a4ed41 616 main/binary-amd64/Packages
- c883e9062665c468733f4e8b04f03e0346366efc 428 main/binary-amd64/Packages.gz
+ 89923598eb8b34541fd59396f1d9099df0405828 616 main/binary-amd64/Packages
+ ac50c9f72ec6644232645fb28138d0b0c75794e2 428 main/binary-amd64/Packages.gz
  03c4b882ae1a67ed63b0c6c03ea7a76ddbb13225 80 main/binary-amd64/Release
 SHA256:
- 6abf9b263bc97b89cb3ff7f199cafb6b799a5b99f8108a5adbe9483c9da89444 616 main/binary-amd64/Packages
- b215e88ea95367ba83042cb774b96456c9513969bce1a31d18180f9a6bf3b957 428 main/binary-amd64/Packages.gz
+ c704b856fc350eba6315337fcb6e9ce77c0d64fc1dedaf5c7d9a87251a8f3105 616 main/binary-amd64/Packages
+ 963cd548b469a8af58a3d1495aa36a4e7cfff7dc4be37e7fc9f26e14ed2ed13a 428 main/binary-amd64/Packages.gz
  a0f9e45e7c71447843fbef0e71fb32682b7791e4aa49943364b977271ed37003 80 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqShyMACgkQbE9/GGCa
-xwgl8hAAkZjVr9qzDoz+8q9fesdsjkOb3t1ZgIZg0l4a1SjW83RXY8ZjX50YtQeG
-MbHyq5fAN0VzU7/EO2i6VPx5tMkkF4JnZcdknRCXGuOGwmGQ1P2c7VZgMFjNdpCw
-ysbrCTuLtBVcO+5BLK9MpfmDqNliw9dQEH7kZDs2JyhVHtuQ7h85ejfWvYNvxtzS
-RMDJjJ5UQ4Z6Q8Kv+9WH3aDQIQ7TazzGGOmnZl9Bmaxt+l9ey8GstBZXQ2Klgjek
-zSTOG6mAk97Mym6fxTzYMVtD9tuKqAhFeJtu4RUZ6YAb4IE/69w+WNd3BaVFToAr
-1MSTRW7XkkwIifVc8cF4AjhJqNqtVt7gK9BRQLMSjUecRMHKdj8BLetc+sxg1tWd
-UJoWljj9M80KpZvrQ1i8/x5wWsJRhF1D0wv6GpxzCRBbiryGGeTTsc+HxY0vb3Bl
-UxPwKPPDcrfHrbJp1zHPutdqbcT6tZxvHH14l+uYaI4+k09aKdB4kpE+NryYVpKG
-94u33VSnCkmrnQJdSaqu2RAxgxUfiOVP6Oulrrqo6s92hn8RsP7P8igcQjGedlhz
-Q+OdR2oOTjXkb3FPeiCOyRx66lxWuovfNrnx0xQUQPyE7i2ekOmserCFyUh69q9V
-NySbE5edEBDCpX0Wa9401I/8Yd90vmhoXob42dYW3mPdGiUlM9k=
-=mmv1
+iQIzBAEBCgAdFiEEVSN/HGw098nEd4DDbE9/GGCaxwgFAmqU/PEACgkQbE9/GGCa
+xwjc5g//bfLBfCF4BLsiVjROBuP4V0iYY6JkTBYaocxi4S+WhvD1TIbcDkryMc/D
+uHbFC7LuvhC6PuOBjU5/x4urYaZ+mPiHxHihUVZ4kN6WqSC9PKLmtg1Ts0AcVHW1
+nbudYSmU5v1qJZnbryrLH4ml+WIlGzWVmzZHTTUzFjaA2TtnX++BcGDBpMiXVLVZ
+p3wXeSHjf5aF8z91h/h4N0B1lCMZzv5W7dDm/O49Jv7XlbtoGWYqXptCYljXWt0q
+A56FGNMoBcQ+jMNnXrX3Arzb//5lrbqiQk0uinYIKyAO0c2pIjcC1Z5N1/csCe+c
+EFB9jDjCU5k8r7LkrIYGSNSWGCYrv9mQak4NKle5kechpA4AOu+3q6YRNUxMQbwP
+LXleb7F6ZJWWwO9Eq0qb/qLm9P9LDYged+CFKO9d7+45nwFValjFcz/BKGLa34yF
+BWk9MJgQswnZIxlg/fyQKeGhPP7GE/nQgTTRvl0jCkxdIhJc84HxF/IGL1f34Ufm
+B3k3bdDFkrw+61Z5lKdlbUnRSFDpaMt8b+DSr6RIO0P6Woew6fmpfL1KtE3uovwy
+7RO30SOheLZGK8fF9xb40d+yaIEC920YoaFHCF4hL8aggITMLHPJXIPSrqZY8Bgv
+emmCAOPcmdYEKidPGna1ndQBPUyhUuwbAGQubPsJONqWyCCra64=
+=TVxW
 -----END PGP SIGNATURE-----

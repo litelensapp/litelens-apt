@@ -1,16 +1,16 @@
 Package: litelens
-Version: 1.7.11~jammy
+Version: 1.7.12~jammy
 Architecture: amd64
 Maintainer: Litelens Team <packages@litelens.io>
 Depends: libwebkit2gtk-4.0-37, libgtk-3-0, libc6 (>= 2.31)
 Homepage: https://github.com/litelensapp/litelens
 Priority: optional
 Section: utils
-Filename: pool/main/l/litelens/litelens_1.7.11~jammy_amd64.deb
-Size: 12841982
-SHA256: 6657084edbf4d9d8ac3d7a71acc6251f7803fca79b701428e7047d3fddc08044
-SHA1: e317c6741b54d4103876f868a2fd1f24f2fce840
-MD5sum: bce30d018e78e92cabe4d3486be0c5e1
+Filename: pool/main/l/litelens/litelens_1.7.12~jammy_amd64.deb
+Size: 12843228
+SHA256: 64f8e5785e5814eb159921cbda9f6c430751ad8e03a8b585ea0b45de956c2e43
+SHA1: 530fdaef260a22d52c969252d96e4da74da788f9
+MD5sum: e4e888e213c102fd73fe36c8621538b9
 Description: Desktop Kubernetes dashboard
  Litelens is a lightweight, native desktop Kubernetes dashboard built with Wails.
 

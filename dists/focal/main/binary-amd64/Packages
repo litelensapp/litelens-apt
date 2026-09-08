@@ -1,16 +1,16 @@
 Package: litelens
-Version: 1.7.16~focal
+Version: 1.7.17~focal
 Architecture: amd64
 Maintainer: Litelens Team <packages@litelens.io>
 Depends: libwebkit2gtk-4.0-37, libgtk-3-0, libc6 (>= 2.31)
 Homepage: https://github.com/litelensapp/litelens
 Priority: optional
 Section: utils
-Filename: pool/main/l/litelens/litelens_1.7.16~focal_amd64.deb
-Size: 13037650
-SHA256: af18e7ea4484d2e615614ebbd0603b84f425711a4a0e75af87a517f4b40bb5ba
-SHA1: c31282a9ac5273db26189db266aaa00ac7e6c93c
-MD5sum: e9e5371ae0179f7280a7ae776c35129c
+Filename: pool/main/l/litelens/litelens_1.7.17~focal_amd64.deb
+Size: 13048130
+SHA256: d302c80c12fee7457eb9d76b81e9eff9190f3eb92b31248cb070f8af994498e5
+SHA1: 98cf341e03d3ee995c54bb444a4220c56bb3d995
+MD5sum: 03b1575b84e4ea90c1fdc65ffebbf917
 Description: Desktop Kubernetes dashboard
  Litelens is a lightweight, native desktop Kubernetes dashboard built with Wails.
 

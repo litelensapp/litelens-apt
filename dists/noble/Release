@@ -1,17 +1,17 @@
 Codename: noble
-Date: Fri, 11 Sep 2026 04:26:44 UTC
+Date: Fri, 11 Sep 2026 10:22:12 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 24.04 LTS (Noble Numbat)
 MD5Sum:
- 9b716f63e32cde8104525fadef81d534 615 main/binary-amd64/Packages
- bf7eae291cd28e22d31a24c28c14684a 425 main/binary-amd64/Packages.gz
+ 803434f33a912165baf2c62b86abe7e8 615 main/binary-amd64/Packages
+ 0e15dedb59b5eafadf82653dc008f6f2 426 main/binary-amd64/Packages.gz
  137e24347b596ab2d93b52f7ea8e93ba 81 main/binary-amd64/Release
 SHA1:
- 37424cfcddd1d7f2f140f46f6aa47d96c43f54c4 615 main/binary-amd64/Packages
- 3ef09a357b1559fbc0b33b49e8fc07a4c4970d34 425 main/binary-amd64/Packages.gz
+ 9814e689b8f349b0640c81038c5965858d90edd0 615 main/binary-amd64/Packages
+ fb6de05025a1ae4841fe046fa62d108790512fff 426 main/binary-amd64/Packages.gz
  3d469138504e7813c2ec9e9750d1913e61335d56 81 main/binary-amd64/Release
 SHA256:
- 800483160c58a1f295cfac7697e8b932b22d72383f14c8876ed454deddbbe553 615 main/binary-amd64/Packages
- 07d0b1b307c96ee5bae39f98e38c83ad59b92c04e768f56c1f074af86e67bc89 425 main/binary-amd64/Packages.gz
+ 3b6da0266f771e6799630b2dd5e7796dcc7116894e8452fe354215f36dfa783e 615 main/binary-amd64/Packages
+ 74bab7f837dc2a54a29800f4fb1b31023179feada3e6aa503f7741ee4d3a0149 426 main/binary-amd64/Packages.gz
  1173d8a8891da7247200d1c847b48f2c091710465d24c733e1e1201f39504fe0 81 main/binary-amd64/Release
